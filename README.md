@@ -1,2 +1,2 @@
-# project
-Computer science project
+Hi... 
+I am Anshul and i created this program for my project of computer science
